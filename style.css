@@ -67,10 +67,6 @@ body {
     opacity: 1;
 }
 
-.card-img > img:hover {
-    cursor: pointer;
-}
-
 .card-info {
     flex: 1;
     margin: 0px 25px 25px 25px;
@@ -79,7 +75,6 @@ body {
 .card-info-text > h1 {
     margin: 0;
     font-size: 22px;
-
 }
 
 .card-info-text > h1 > a {
